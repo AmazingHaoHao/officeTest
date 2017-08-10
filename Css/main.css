@@ -1,0 +1,27 @@
+#div_left{
+    background: #666666;
+    position:fixed;
+    padding: 0;
+    left: 0;
+    top: 0;
+    height: 100%;
+    width: 50px;
+}
+#div_left_second{
+    background: #336699;
+    position:fixed;
+    padding: 0;
+    left: 50px;
+    top: 0;
+    height: 100%;
+    width: 100px;
+}
+#div_right{
+    background: #999999;
+    position:fixed;
+    padding: 0;
+    right: 0;
+    top: 0;
+    height: 100%;
+    width: 50px;
+}
